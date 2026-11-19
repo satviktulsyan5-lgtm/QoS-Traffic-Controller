@@ -1,0 +1,18 @@
+UDP Performance Server listening on ports: [21001, 21002, 21003]
+
+Server shutting down. Final Statistics:
+--- HIGH Traffic ---
+Total Packets Received: 2318
+Average Latency: 120.22 ms
+95th pct Latency: 248.96 ms
+Packets Lost: 82 / 2400
+--- MEDIUM Traffic ---
+Total Packets Received: 515
+Average Latency: 241.53 ms
+95th pct Latency: 253.44 ms
+Packets Lost: 85 / 600
+--- LOW Traffic ---
+Total Packets Received: 32
+Average Latency: 208.17 ms
+95th pct Latency: 257.29 ms
+Packets Lost: 199 / 231

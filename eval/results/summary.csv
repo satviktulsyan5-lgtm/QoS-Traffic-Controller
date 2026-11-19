@@ -1,0 +1,7 @@
+scenario,class,sent,received,loss_%,avg_latency_ms (congested 6-18s),p95_latency_ms
+fifo,HIGH,2400,2318,3.4,243.6,249.0
+fifo,MEDIUM,600,515,14.2,248.1,253.5
+fifo,LOW,240,32,86.7,252.7,257.4
+priority,HIGH,2400,2400,0.0,11.1,15.4
+priority,MEDIUM,600,504,16.0,172.2,179.9
+priority,LOW,240,5,97.9,,12172.5
